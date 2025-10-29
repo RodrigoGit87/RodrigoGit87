@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Rodrigo Llamas 👋
+```java
+IO.println ("Hello GitHub");
+```
 
-<!--
-**RodrigoGit87/RodrigoGit87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 1st year student in Cross-platform Application Development, currently focused on **Java**, **HTML**, and **CSS**.  
+Soon, I'll be diving into **SQL databases**, **PHP**, and a bit of **Python** to broaden my skills.
 
-Here are some ideas to get you started:
+I use GitHub to share my practice exercises and learning projects – it's a great way to track my journey and connect with other developers!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+- Java (OOP, basics, GUIs)
+- HTML & CSS (web fundamentals)
+- SQL Database (coming soon)
+- PHP (coming soon)
+- Python (coming soon)
+
+## 🕹️ Interests & Hobbies
+- Gym & Fitness
+- Videogames
+- Anime
+- Bikes
+- Tech & gadgets
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/rodrigo-llamas-0b8a464a/)
+
+
+
+Feel free to check out my repositories or reach out!
