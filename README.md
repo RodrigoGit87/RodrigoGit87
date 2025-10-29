@@ -6,7 +6,7 @@ IO.println ("Hello GitHub");
 I'm a 1st year student in Cross-platform Application Development, currently focused on **Java**, **HTML**, and **CSS**.  
 Soon, I'll be diving into **SQL databases**, **PHP**, and a bit of **Python** to broaden my skills.
 
-I use GitHub to share my practice exercises and learning projects – it's a great way to track my journey and connect with other developers!
+I use GitHub to share my practice exercises and learning projects 
 
 ## 🌱 What I'm Learning
 - Java (OOP, basics, GUIs)
