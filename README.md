@@ -11,8 +11,8 @@ I use GitHub to share my practice exercises and learning projects
 ## 🌱 What I'm Learning
 - Java (OOP, basics, GUIs)
 - HTML & CSS (web fundamentals)
-- SQL Database (coming soon)
-- PHP (coming soon)
+- SQL Database
+- PHP 
 - Python (coming soon)
 
 ## 🕹️ Interests & Hobbies
