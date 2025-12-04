@@ -3,8 +3,8 @@
 IO.println ("Hello GitHub");
 ```
 
-I'm a 1st year student in Cross-platform Application Development, currently focused on **Java**, **HTML**, and **CSS**.  
-Soon, I'll be diving into **SQL databases**, **PHP**, and a bit of **Python** to broaden my skills.
+I'm a 1st year student in Cross-platform Application Development, currently focused on **Java**, **HTML**, **CSS** and **SQL databases**.  
+Soon, a bit of **PHP** & **Python** to broaden my skills.
 
 I use GitHub to share my practice exercises and learning projects 
 
@@ -24,7 +24,6 @@ I use GitHub to share my practice exercises and learning projects
 
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/rodrigo-llamas-0b8a464a/)
-
 
 
 Feel free to check out my repositories or reach out!
