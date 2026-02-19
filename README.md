@@ -12,7 +12,7 @@ I use GitHub to share my practice exercises and learning projects
 - Java (OOP, basics, GUIs)
 - HTML & CSS (web fundamentals)
 - SQL Database
-- PHP 
+- JavaScript
 - Python (coming soon)
 
 ## 🕹️ Interests & Hobbies
