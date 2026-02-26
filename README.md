@@ -13,8 +13,7 @@ I use GitHub to share my practice exercises and learning projects
 - HTML & CSS (web fundamentals)
 - SQL Database
 - JavaScript
-- Python (coming soon)
-
+- Python 
 ## 🕹️ Interests & Hobbies
 - Gym & Fitness
 - Videogames
