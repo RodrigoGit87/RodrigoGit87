@@ -46,11 +46,7 @@ Actualmente cursando el primer año de FP en **Desarrollo de Aplicaciones Multip
 
 ## 📈 Estadísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoGit87&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGit87&layout=compact&theme=radical" />
-</p>
-
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoGit87&theme=radical" />
 ---
 
 ## 📂 Proyectos y Prácticas
