@@ -17,9 +17,7 @@ Actualmente cursando el primer año de FP en **Desarrollo de Aplicaciones Multip
 
 ![Python Essentials 1](https://img.shields.io/badge/Cisco-Python_Essentials_1-blue?style=for-the-badge&logo=cisco&logoColor=white)
 ![Python Essentials 1](https://img.shields.io/badge/Cisco-Python_Essentials_2-blue?style=for-the-badge&logo=cisco&logoColor=white)
-![Microsoft Python Fundamentals](https://img.shields.io/badge/Microsoft-Python_Programming_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
----
+![Microsoft Python Fundamentals](https://img.shields.io/badge/Microsoft-Python_Programming_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
 
 ## 🛠 Tech Stack
 
@@ -46,8 +44,8 @@ Actualmente cursando el primer año de FP en **Desarrollo de Aplicaciones Multip
 
 ## 📈 Estadísticas
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoGit87&theme=radical" />
----
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoGit87&theme=radical" />  
+
 
 ## 📂 Proyectos y Prácticas
 
